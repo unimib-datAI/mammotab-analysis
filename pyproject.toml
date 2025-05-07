@@ -1,0 +1,17 @@
+[project]
+name = "mammotab_analysis"
+version = "0.1.0"
+description = "Analysis of mammotab data"
+authors = [
+    { name = "Belotti Federico", email = "belo.fede@outlook.com" }
+]
+dependencies = [
+    "numpy",
+    "pandas",
+    "seaborn",
+    "matplotlib"
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
