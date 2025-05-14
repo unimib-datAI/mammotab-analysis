@@ -9,7 +9,7 @@
     "accuracy": 0.303,
     "total_correct": 25771,
     "stats": {
-        "nils": 7599,
+        "nils": 610,
         "acronyms": 2171,
         "typos": 7144,
         "alias": 3692,
@@ -25,7 +25,7 @@
         "large_per_rows": 158
     },
     "final_stats": {
-        "nils": "51.1%",
+        "nils": "4.1%",
         "acronyms": "61.7%",
         "typos": "58.8%",
         "alias": "51.8%",
